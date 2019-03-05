@@ -13,8 +13,4 @@
   gtag('config', 'UA-135604553-1');
 </script>
 </head>
-<div class="something" markdown="1">
-  ## Heading 2
-  Some **bold** text.
-</div>
-</html markdown="1">
+</html>
