@@ -1,4 +1,4 @@
-# Hello World, this is Deepti Khatri
+# Deepti Khatri
 
 
 <html markdown="1">
@@ -13,4 +13,20 @@
   gtag('config', 'UA-135604553-1');
 </script>
 </head>
+<table cellspacing="10" cellpadding="10" markdown="1">
+<tr markdown="1">
+  <td width=70% markdown="1">
+I am currently a graduate student in Master's in Information Technology and Analytics at Rutgers University&#8211;Newark.
+<br>
+Prior to this, I was a Programming Subject Matter Expert at Amdocs for almost 7 years.<br>
+<br>
+Prior to that, I did my Bachelor's in Technology in Computer Science at Mody Institue of Technology and Science, India
+<br>
+<b>Contact:</b> deeptikhatri211@gmail.com<br>
+</td>
+  <td style="vertical-align: top;" markdown="1">
+    <img src="deepti.jpg" align="top" width="75%"><br>
+ </td>
+</tr>
+</table>
 </html>
