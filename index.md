@@ -25,7 +25,7 @@ Prior to that, I did my Bachelor's in Technology in Computer Science at Mody Ins
 <b>Contact:</b> deeptikhatri211@gmail.com<br>
 </td>
   <td style="vertical-align: top;" markdown="1">
-    <img src="deepti.jpg" align="top" width="75%"><br>
+    <img src="image/deepti.jpg" align="top" width="75%"><br>
  </td>
 </tr>
 </table>
